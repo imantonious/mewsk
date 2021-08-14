@@ -29,6 +29,7 @@
 		1B356A8B26C74A1A009A2D33 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A8A26C74A1A009A2D33 /* AudioTrack.swift */; };
 		1B356A8D26C74A28009A2D33 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A8C26C74A28009A2D33 /* Artist.swift */; };
 		1B356A8F26C74A3F009A2D33 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A8E26C74A3F009A2D33 /* UserProfile.swift */; };
+		1B356A9126C781F8009A2D33 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A9026C781F8009A2D33 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		1B356A8A26C74A1A009A2D33 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		1B356A8C26C74A28009A2D33 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		1B356A8E26C74A3F009A2D33 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		1B356A9026C781F8009A2D33 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				1B356A5B26C73C86009A2D33 /* Assets.xcassets */,
 				1B356A5226C73C83009A2D33 /* AppDelegate.swift */,
 				1B356A5426C73C83009A2D33 /* SceneDelegate.swift */,
+				1B356A9026C781F8009A2D33 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				1B356A7726C7438D009A2D33 /* AuthViewController.swift in Sources */,
 				1B356A7126C742FC009A2D33 /* LibraryViewController.swift in Sources */,
 				1B356A8F26C74A3F009A2D33 /* UserProfile.swift in Sources */,
+				1B356A9126C781F8009A2D33 /* Extensions.swift in Sources */,
 				1B356A5526C73C83009A2D33 /* SceneDelegate.swift in Sources */,
 				1B356A8D26C74A28009A2D33 /* Artist.swift in Sources */,
 				1B356A7F26C743C8009A2D33 /* PlaylistViewController.swift in Sources */,
