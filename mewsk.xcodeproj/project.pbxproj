@@ -31,6 +31,7 @@
 		1B356A8F26C74A3F009A2D33 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A8E26C74A3F009A2D33 /* UserProfile.swift */; };
 		1B356A9126C781F8009A2D33 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A9026C781F8009A2D33 /* Extensions.swift */; };
 		1B356A9726C8BC8F009A2D33 /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A9626C8BC8F009A2D33 /* Keys.swift */; };
+		1B356A9926C8E3B1009A2D33 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B356A9826C8E3B1009A2D33 /* AuthResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		1B356A8E26C74A3F009A2D33 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		1B356A9026C781F8009A2D33 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		1B356A9626C8BC8F009A2D33 /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
+		1B356A9826C8E3B1009A2D33 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				1B356A8A26C74A1A009A2D33 /* AudioTrack.swift */,
 				1B356A8C26C74A28009A2D33 /* Artist.swift */,
 				1B356A8E26C74A3F009A2D33 /* UserProfile.swift */,
+				1B356A9826C8E3B1009A2D33 /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				1B356A7526C74382009A2D33 /* WelcomeViewController.swift in Sources */,
 				1B356A7D26C743BC009A2D33 /* PlayerViewController.swift in Sources */,
 				1B356A8526C749D2009A2D33 /* APICaller.swift in Sources */,
+				1B356A9926C8E3B1009A2D33 /* AuthResponse.swift in Sources */,
 				1B356A7926C743A4009A2D33 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
